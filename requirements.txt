@@ -1,0 +1,17 @@
+pandas
+numpy
+TIME-python
+calendra
+calendar-view
+matplotlib
+scipy
+seaborn
+plotly
+dash
+dash-bootstrap-components
+xbbg
+xlwings
+pywin32
+holidays 
+openpyxl
+Backtesting
