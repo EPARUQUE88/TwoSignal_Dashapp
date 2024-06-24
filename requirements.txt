@@ -11,7 +11,6 @@ dash
 dash-bootstrap-components
 xbbg
 xlwings
-pywin32
 holidays 
 openpyxl
 Backtesting
